@@ -1,0 +1,29 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "A REST API for an e-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Browne",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/ChrisBrowne01/e-commerce-api.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "rest-api",
+    "nodejs",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/ChrisBrowne01/e-commerce-api/issues"
+  },
+  "homepage": "https://github.com/ChrisBrowne01/e-commerce-api#readme"
+}
