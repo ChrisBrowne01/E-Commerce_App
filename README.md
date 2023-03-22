@@ -11,7 +11,11 @@ Run npm run db:init to initialize the database with seed data.
 Run npm run dev to start the server.
 Open http://localhost:3000/api-docs in your browser to view the Swagger documentation for the API.
 
-### Endpoints
+## Wireframe
+
+ ![ERD Wireframe](./resources/ERD.png.jpg "ERD Wireframe")
+
+## Endpoints
 
 - POST /auth/register: Register a new user.
 - POST /auth/login: Log in an existing user and get a JWT token.
