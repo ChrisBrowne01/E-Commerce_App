@@ -13,7 +13,7 @@ Open http://localhost:3000/api-docs in your browser to view the Swagger document
 
 ## Wireframe
 
- ![ERD Wireframe](./resources/ERD.png.jpg "ERD Wireframe")
+ ![ERD Wireframe](./resources/ERD.png "ERD Wireframe")
 
 ## Endpoints
 
